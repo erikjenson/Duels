@@ -1,0 +1,11 @@
+{
+  "name": "epicduels",
+  "version": "1.0.0",
+  "description": "Epic Duels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Jenson",
+  "license": "ISC"
+}
